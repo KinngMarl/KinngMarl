@@ -1,4 +1,4 @@
-# Hi there, I'm Mayibongwinkosi Jordan Ndlovu! 👋
+# Hi there, I'm Jordan Ndlovu! 👋
 
 ## About Me
 - 👨‍💻 I'm a Junior Cloud/DevOps Engineer based in Johannesburg.
